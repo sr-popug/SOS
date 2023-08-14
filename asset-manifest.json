@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/SOS/static/css/main.e0b37396.css",
+    "main.js": "/SOS/static/js/main.714ef781.js",
+    "static/media/slide2.png": "/SOS/static/media/slide2.ca2c14f67a06310a685d.png",
+    "static/media/slide1.png": "/SOS/static/media/slide1.214a54efff8871a853d1.png",
+    "static/media/slide3.png": "/SOS/static/media/slide3.d7fab438306c57fc85ea.png",
+    "static/media/bg-img1.png": "/SOS/static/media/bg-img1.17286bd995d4a8372ed6.png",
+    "static/media/bg-img1.1.png": "/SOS/static/media/bg-img1.1.5030adb69810753dc0b9.png",
+    "static/media/bg4.png": "/SOS/static/media/bg4.e78e779e17a814b4c370.png",
+    "static/media/bg3.png": "/SOS/static/media/bg3.643332509c664f51a0b0.png",
+    "static/media/bg2.png": "/SOS/static/media/bg2.a1b72cd5770fed53330a.png",
+    "static/media/bg6.png": "/SOS/static/media/bg6.990cdeaafcd80aa7663a.png",
+    "static/media/Bebas_Cicrilic.ttf": "/SOS/static/media/Bebas_Cicrilic.f39fe92d35bac3b2fe60.ttf",
+    "static/media/profile1.png": "/SOS/static/media/profile1.911c1d5fe21c75e6fc3f.png",
+    "static/media/profile2.png": "/SOS/static/media/profile2.48c074ea7235e2223c2f.png",
+    "static/media/socials.svg": "/SOS/static/media/socials.b16264cf90c94f612e28dcedae086565.svg",
+    "static/media/steam.svg": "/SOS/static/media/steam.0f1734f08cb66afc806ee00a9aae29bb.svg",
+    "static/media/xbox.svg": "/SOS/static/media/xbox.01812123f341d6fb78df1dccac37c2b6.svg",
+    "index.html": "/SOS/index.html",
+    "static/media/twitter.svg": "/SOS/static/media/twitter.86a70fb7fc55d2f93ae06b6bbaa30bb4.svg",
+    "static/media/switch.svg": "/SOS/static/media/switch.0f4a18c8f2a2fcff86b29ee6f9365843.svg",
+    "static/media/scroll.svg": "/SOS/static/media/scroll.b805565870e83b28b461ea7c383f5d7d.svg",
+    "static/media/circle.svg": "/SOS/static/media/circle.f775b6097abfae850c652c68d32b567e.svg",
+    "static/media/circleE.svg": "/SOS/static/media/circleE.a93000297b09652717140b9828fd6dac.svg",
+    "main.e0b37396.css.map": "/SOS/static/css/main.e0b37396.css.map",
+    "main.714ef781.js.map": "/SOS/static/js/main.714ef781.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0b37396.css",
+    "static/js/main.714ef781.js"
+  ]
+}
